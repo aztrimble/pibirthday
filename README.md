@@ -1,7 +1,6 @@
 # Is your birthday in PI?
-
 Have you ever wondered if the digits of your birthday are contained somewhere
-in pi? If you a true nerd you have. 
+in pi? If you're a true nerd you have. 
 
 This repository contains a text file of pi to 1 million decimal places and a 
 python script file that collects your birthday and looks for it in the 
