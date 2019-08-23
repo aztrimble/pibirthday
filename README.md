@@ -1,4 +1,5 @@
-#Is your birthday in PI?
+# Is your birthday in PI?
+
 Have you ever wondered if the digits of your birthday are contained somewhere
 in pi? If you a true nerd you have. 
 
