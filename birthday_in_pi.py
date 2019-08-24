@@ -30,7 +30,6 @@ for line in lines:
 while True:
     #--- Obtain the users birthday and parse into year, month, and day
     birthday = input("\nEnter your birthday (yyyymmdd): ")
-    print("I heard: "+str(birthday))
     birthday_year = birthday[0:4]
     birthday_month = birthday[4:6]
     birthday_day = birthday[6:]
